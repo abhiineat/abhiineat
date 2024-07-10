@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhineet Yadav</h1>
 <h2 align="center">Frontend developer</h2>
-<img align="right" alt="coding" width="515" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c2d64f4ceaf86da9becca355e41d219d-1696690622/luigi%20LOFI%20sample%20export%206%20alt/create-awesome-pixel-art-animations-and-illustrations.gif">
+<img align="right" alt="coding" width="450" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/c2d64f4ceaf86da9becca355e41d219d-1696690622/luigi%20LOFI%20sample%20export%206%20alt/create-awesome-pixel-art-animations-and-illustrations.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
