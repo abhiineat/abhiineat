@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhineet Yadav</h1>
-<h2 align="center">Frontend developer</h2>
+<h2 align="center">Full-stack developer</h2>
 # 💫 About Me:
-Currently Working On<br><br>Building scalable full-stack applications using React, Next.js, and Node.js, <br>with a focus on Docker-based deployments, Kafka-driven event systems, <br>performance optimization, and continuous improvement through DSA practice.<br>
+Building scalable full-stack applications with React, Next.js, and Node.js, 
+designing Docker-based development and deployment workflows, 
+implementing Kafka-driven event systems, optimizing application performance, 
+and solving complex problems using Data Structures and Algorithms.
 
 
 ## 🌐 Socials:
