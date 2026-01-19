@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhineet Yadav</h1>
 <h2 align="center">Full-stack developer</h2>
-🧩 A Bit About Me
 
-I work across the stack, like breaking problems into clear steps, 
+🧩I work across the stack, like breaking problems into clear steps, 
 and care more about things working well than sounding clever.
 
 
